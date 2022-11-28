@@ -411,7 +411,7 @@
     margin-top: 12px;
     margin-left: 251px;
   }
-  .scone{
+ .scone{
     background-color: #111111;
     width: 100%;
     margin-bottom: 18px;
@@ -429,32 +429,202 @@
     cursor: pointer;
 
   }
-  #insta{
-    height: 130px;
-    width: 150px;
-    margin-top: 2px;
-    margin-left: 610px;
-    cursor: pointer;
-
-  }
-  #twitter{
-    height: 130px;
-    width: 150px;
-    margin-top: 2px;
-    margin-left: 70px;
-    cursor: pointer;
-  }
-  #linkedin{
-    height: 130px;
-    width: 150px;
-    margin-top: 2px;
-    margin-left: -600px;
-    cursor: pointer;
-  }
+  
   #secondone{
     height: 200px;
     width: 1353px;
-    margin-top: 0px;
+    margin-top: 230PX;
     margin-left: -4px;
     cursor: pointer;
   }
+  
+  #about {
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 60px;
+    color: white;
+  }
+  #ps{
+    position: absolute;
+    margin-left: 280px;
+    margin-top: 60px;
+    color: white;
+    
+  }
+  .contact{
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 90px;
+    color: white;
+  }
+  #community{
+    position: absolute;
+    margin-left: 280px;
+    margin-top: 90px;
+    color: white;
+  }
+  #newsroom{
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 120px;
+    color: white;
+  }
+  #ra{
+    position: absolute;
+    margin-left: 280px;
+    margin-top: 120px;
+    color: white;
+  }
+  #legal{
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 150px;
+    color: white;
+  }
+  #resourses{
+    position: absolute;
+    margin-left: 280px;
+    margin-top: 150px;
+    color: white;
+  }
+  
+  #blog{
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 180px;
+    color: white;
+  }
+  #headone{
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 95px;
+    font-size: 20px;
+    font-family: solid;
+    color: white;
+    
+  }
+#headtwo{
+  position: absolute;
+  margin-top: 15px;
+  margin-left: 280px;
+  font-size: 20px;
+  font-family: solid;
+  color: white;
+}
+#headthree{
+  position: absolute;
+  margin-top: 15px;
+  margin-left: 465px;
+  font-size: 20px;
+  font-family: solid;
+  color: white;
+}
+#webmail{
+  position: absolute;
+  margin-left: 465px;
+  margin-top: 60px;
+  color: white;
+}
+#whois{
+  position: absolute;
+  margin-left: 465px;
+  margin-top: 90px;
+  color: white;
+}
+#Product{
+  position: absolute;
+  margin-left: 465px;
+  margin-top: 120px;
+  color: white;
+}
+#redeem{
+  position: absolute;
+  margin-left: 465px;
+  margin-top: 150px;
+  color: white;
+} 
+#business{
+  position: absolute;
+  margin-left: 465px;
+  margin-top: 180px;
+  color: white;
+}
+#headfour{
+  position: absolute;
+  margin-top: 15px;
+  margin-left: 690px;
+  font-size: 20px;
+  font-family: solid;
+  color: white;
+}
+#affiliates{
+  position: absolute;
+  margin-left: 690px;
+  margin-top: 60px;
+  color: white;
+}
+#rp{
+  position: absolute;
+  margin-left: 690px;
+  margin-top: 90px;
+  color: white;
+}
+#gp{
+  position: absolute;
+  margin-left: 690px;
+  margin-top: 120px;
+  color: white;
+
+}
+#headfive{
+  position: absolute;
+  margin-top: 15px;
+  margin-left: 900px;
+  font-size: 20px;
+  font-family: solid;
+  color: white;
+  
+}
+#mp{
+  position: absolute;
+  margin-left: 900px;
+  margin-top: 60px;
+  color: white;
+}
+#billing{
+  position: absolute;
+  margin-left: 900px;
+  margin-top: 90px;
+  color: white;
+}
+#create{
+  position: absolute;
+  margin-left: 900px;
+  margin-top: 120px;
+  color: white;
+}
+#insta{
+  position: absolute;
+  height: 60PX;
+  width: 65PX;
+  margin-top: 45px;
+  margin-left: 1100px;
+  cursor: pointer;
+
+}
+#twitter{
+  position: absolute;
+  height: 60PX;
+  width: 65PX;
+  margin-top: 144px;
+  margin-left: 1100px;
+  cursor: pointer;
+}
+#linkedin{
+  position: absolute;
+  height: 55PX;
+  width: 60PX;
+  margin-top: 105px;
+  margin-left: 1200px;
+  cursor: pointer;
+}
